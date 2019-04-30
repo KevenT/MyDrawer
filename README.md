@@ -8,7 +8,7 @@
 
 
 ## 依赖：	
-   compile 'com.yanxuwen.mydrawer:mydrawer:1.1.4’
+   [![](https://jitpack.io/v/KevenT/MyDrawer.svg)](https://jitpack.io/#KevenT/MyDrawer)
 ## 实现：	
 #### 1.首先自定义类。TextDragLayout 
 ~~~
@@ -109,7 +109,6 @@ public class TextDragLayout extends BaseDragLayout {
 mTextDragLayout.setRecyclerView(mRecyclerView);
 加了上面那句话你就会发现，会先滑动列表，列表滑动到顶才会滑动抽屉，是不是跟今日头条一样，支持4个方向的冲突，
 ~~~
-## github代码：https://github.com/yanxuwen/MyDrawer
 #### 喜欢就在github star下,非常感谢o(∩_∩)o~~~，您star下就是我的动力，
-## 微信公众号：
-![qrcode_for_gh_8e99f824c0d6_344.jpg](http://upload-images.jianshu.io/upload_images/6835615-8b35ce64a1688c8b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
